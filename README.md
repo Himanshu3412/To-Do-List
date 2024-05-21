@@ -27,9 +27,10 @@ This is a simple To-Do List web application built with HTML, CSS, and JavaScript
 
 ## Preview
 
-![Screenshot 2024-04-14 132218](https://github.com/Himanshu3412/To-Do-List/assets/163979859/7d9dc808-0ddc-4b0d-a758-972c62656382)
-![Screenshot 2024-04-14 132301](https://github.com/Himanshu3412/To-Do-List/assets/163979859/77061bf2-b90a-4109-b28a-d31933c70afc)
 ![Screenshot 2024-04-14 132027](https://github.com/Himanshu3412/To-Do-List/assets/163979859/8808f6ee-6316-4269-a7ab-8e48f7e92734)
 ![Screenshot 2024-04-14 132139](https://github.com/Himanshu3412/To-Do-List/assets/163979859/f31980fb-8ef9-4e9a-a7c6-afd51330643d)
 ![Screenshot 2024-04-14 132200](https://github.com/Himanshu3412/To-Do-List/assets/163979859/45bb0911-c208-405a-9d24-2f9a96837dfb)
+![Screenshot 2024-04-14 132301](https://github.com/Himanshu3412/To-Do-List/assets/163979859/77061bf2-b90a-4109-b28a-d31933c70afc)
+![Screenshot 2024-04-14 132218](https://github.com/Himanshu3412/To-Do-List/assets/163979859/7d9dc808-0ddc-4b0d-a758-972c62656382)
+
 
